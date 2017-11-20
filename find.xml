@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '[simple-java-mail] - ...\src\main\java'" />
-    <option name="defaultScopeName" value="Directory '[simple-java-mail] - ...\src\main\java'" />
+    <option name="customScope" value="File '[simple-java-mail] - ...\src\main\java\org\simplejavamail\email\EmailBuilder.java'" />
+    <option name="defaultScopeName" value="File '[simple-java-mail] - ...\src\main\java\org\simplejavamail\email\EmailBuilder.java'" />
     <option name="localRegularExpressions" value="true" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '[simple-java-mail] - ...\src\main\java'" />
+    <option name="SEARCH_SCOPE" value="File '[simple-java-mail] - ...\src\main\java\org\simplejavamail\email\EmailBuilder.java'" />
   </component>
 </application>
