@@ -1,0 +1,39 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="com.auxilii.msgparser.MsgParser.parseMsg(msgFile)" />
+        <added pattern="java.lang.String.String(bytes,charsetName)" />
+        <added pattern="java.io.File.File(pathname)" />
+        <added pattern="com.auxilii.msgparser.ParserTest.parseMsgFile(s)" />
+        <added pattern="com.auxilii.msgparser.ParserTest.parseMsgFile(msgPath)" />
+        <added pattern="com.auxilii.msgparser.MsgParser.parseMsg(msgFileStream,closeStream)" />
+        <added pattern="com.auxilii.msgparser.ParserTest.createRecipient(toName,toEmail)" />
+        <added pattern="com.auxilii.msgparser.ParserTest.assertEmbeddedImage(embeddedImg,mimeType,fileExt,filename)" />
+        <added pattern="org.simplejavamail.converter.internal.msgparser.MsgParserMessageParser.parseMsgFile(msgPath)" />
+        <added pattern="org.simplejavamail.mailer.config.ServerConfig.ServerConfig(host,port,username,password)" />
+        <added pattern="org.simplejavamail.email.Email.addRecipient(name,address,type)" />
+        <added pattern="org.simplejavamail.email.Email.setReplyToAddress(name,replyToAddress)" />
+        <added pattern="org.simplejavamail.email.Email.setFromAddress(name,fromAddress)" />
+        <added pattern="org.simplejavamail.email.Email.addAttachment(name,filedata)" />
+        <added pattern="org.simplejavamail.email.Email.addEmbeddedImage(name,data,mimetype)" />
+        <added pattern="org.simplejavamail.email.Email.addAttachment(name,data,mimetype)" />
+        <added pattern="com.auxilii.msgparser.ParserTest.assertAttachmentMetadata(embeddedImg,mimeType,fileExt,filename)" />
+        <added pattern="com.auxilii.msgparser.ParserTest.assertAttachmentMetadata(embeddedImg,mimeType,fileExt,filename,type)" />
+        <added pattern="java.util.regex.Matcher.group(group)" />
+        <added pattern="java.util.regex.Matcher.group(name)" />
+        <added pattern="com.auxilii.msgparser.MsgParser.extractReplyToHeader(msg,allHeaders)" />
+        <added pattern="java.util.logging.Logger.warning(msg)" />
+        <added pattern="org.simplejavamail.outlookmessageparser.OutlookMessage.setFromEmail(fromEmail,force)" />
+        <added pattern="java.lang.String.split(regex)" />
+        <added pattern="org.simplejavamail.outlookmessageparser.OutlookMessage.getPropertyValue(code)" />
+        <added pattern="org.simplejavamail.outlookmessageparser.OutlookMessageParser.parseMsg(msgFileStream,closeStream)" />
+        <added pattern="java.lang.String.matches(regex)" />
+        <added pattern="org.simplejavamail.outlookmessageparser.HighoverEmailsTest.assertAttachmentMetadata(embeddedImg,mimeType,fileExt,filename,fullname)" />
+        <added pattern="org.simplejavamail.email.Email.Email(readFromDefaults)" />
+        <added pattern="org.simplejavamail.email.Recipient.Recipient(name,address,type)" />
+        <added pattern="org.simplejavamail.email.EmailBuilderTest.createRecipient(name,emailAddress,recipientType)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
