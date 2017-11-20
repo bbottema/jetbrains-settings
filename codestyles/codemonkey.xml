@@ -7,6 +7,7 @@
     <value />
   </option>
   <option name="RIGHT_MARGIN" value="160" />
+  <option name="JD_ADD_BLANK_AFTER_PARM_COMMENTS" value="true" />
   <option name="WRAP_COMMENTS" value="true" />
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
