@@ -1,7 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="RELEASE" type="PLAIN_TEXT" />
+      <mapping ext="eml" type="PLAIN_TEXT" />
+      <mapping ext="msg" type="PLAIN_TEXT" />
+      <mapping ext="exec" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
