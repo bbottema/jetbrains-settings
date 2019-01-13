@@ -66,6 +66,10 @@
           <option name="url" value="https://github.com/bbottema/email-rfc2822-validator.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/simple-java-mail/maven-master-project.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\workstation\simple-java-mail-modular" />
