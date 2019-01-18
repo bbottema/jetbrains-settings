@@ -16,7 +16,7 @@
     <mask>*.mxml</mask>
     <mask>*.gradle</mask>
     <mask>*.html</mask>
-    <mask>*.java</mask>
     <mask>pom.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
