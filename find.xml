@@ -12,10 +12,10 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.gradle</mask>
-    <mask>pom.xml</mask>
     <mask>*.ts</mask>
     <mask>*.xml</mask>
     <mask>*.html</mask>
     <mask>*.java</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
