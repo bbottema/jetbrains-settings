@@ -74,6 +74,10 @@
           <option name="url" value="https://github.com/simple-java-mail/angular-app.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/bbottema/java-utils-mail-smime.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\workstation" />
