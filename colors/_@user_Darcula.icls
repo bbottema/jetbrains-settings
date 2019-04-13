@@ -3,7 +3,7 @@
     <property name="created">2017-08-14T21:07:07</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.1.1.0.0</property>
-    <property name="modified">2019-04-13T10:22:00</property>
+    <property name="modified">2019-04-13T10:47:23</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -23,6 +23,42 @@
     <option name="FILESTATUS_modifiedOutside" value="82aaff" />
   </colors>
   <attributes>
+    <option name="ANGLE_BRACKETS_RAINBOW_COLOR0">
+      <value>
+        <option name="FOREGROUND" value="ffcb23" />
+      </value>
+    </option>
+    <option name="ANGLE_BRACKETS_RAINBOW_COLOR1">
+      <value>
+        <option name="FOREGROUND" value="61e865" />
+      </value>
+    </option>
+    <option name="ANGLE_BRACKETS_RAINBOW_COLOR2">
+      <value>
+        <option name="FOREGROUND" value="37d3ff" />
+      </value>
+    </option>
+    <option name="ANGLE_BRACKETS_RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="c694ff" />
+      </value>
+    </option>
+    <option name="ANGLE_BRACKETS_RAINBOW_COLOR4">
+      <value>
+        <option name="FOREGROUND" value="ff6806" />
+      </value>
+    </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
     <option name="LINE_FULL_COVERAGE">
       <value>
         <option name="FOREGROUND" value="8eeaa4" />
@@ -34,6 +70,57 @@
         <option name="FOREGROUND" value="80805a" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR0">
+      <value>
+        <option name="FOREGROUND" value="e486ff" />
+      </value>
+    </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR1">
+      <value>
+        <option name="FOREGROUND" value="45dd49" />
+      </value>
+    </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR2">
+      <value>
+        <option name="FOREGROUND" value="baff" />
+      </value>
+    </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="fff800" />
+      </value>
+    </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR4">
+      <value>
+        <option name="FOREGROUND" value="fafffb" />
+      </value>
+    </option>
+    <option name="SQUARE_BRACKETS_RAINBOW_COLOR2">
+      <value>
+        <option name="FOREGROUND" value="c799ff" />
+      </value>
+    </option>
+    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR0">
+      <value>
+        <option name="FOREGROUND" value="14e4f9" />
+      </value>
+    </option>
+    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR1">
+      <value>
+        <option name="FOREGROUND" value="bdee7d" />
+      </value>
+    </option>
+    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR2">
+      <value>
+        <option name="FOREGROUND" value="eedb" />
       </value>
     </option>
   </attributes>
