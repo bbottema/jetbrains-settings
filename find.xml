@@ -17,5 +17,6 @@
     <mask>*.html</mask>
     <mask>pom.xml</mask>
     <mask>*.java</mask>
+    <mask>*.less</mask>
   </component>
 </application>
