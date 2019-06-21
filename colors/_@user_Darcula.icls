@@ -3,7 +3,7 @@
     <property name="created">2017-08-14T21:07:07</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.1.1.0.0</property>
-    <property name="modified">2019-04-13T10:47:23</property>
+    <property name="modified">2019-06-21T15:13:06</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -61,13 +61,20 @@
     </option>
     <option name="LINE_FULL_COVERAGE">
       <value>
-        <option name="FOREGROUND" value="8eeaa4" />
+        <option name="BACKGROUND" value="2c6243" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LINE_NONE_COVERAGE">
+      <value>
+        <option name="FOREGROUND" value="fafffb" />
+        <option name="BACKGROUND" value="a40f02" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="LINE_PARTIAL_COVERAGE">
       <value>
-        <option name="FOREGROUND" value="80805a" />
+        <option name="BACKGROUND" value="51460d" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
