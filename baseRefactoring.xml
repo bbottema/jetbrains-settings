@@ -9,12 +9,8 @@
     <option name="MOVE_SEARCH_FOR_REFERENCES_FOR_FILE" value="false" />
   </component>
   <component name="RefactoringSettings">
-    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="false" />
-    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_METHOD" value="false" />
-    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FIELD" value="false" />
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_VARIABLE" value="false" />
     <option name="RENAME_SEARCH_FOR_TEXT_FOR_CLASS" value="false" />
-    <option name="RENAME_SEARCH_FOR_TEXT_FOR_METHOD" value="false" />
     <option name="RENAME_SEARCH_FOR_TEXT_FOR_VARIABLE" value="false" />
     <option name="EXTRACT_INTERFACE_PREVIEW_USAGES" value="false" />
     <option name="MOVE_PREVIEW_USAGES" value="false" />
@@ -25,6 +21,7 @@
     <option name="EXTRACT_INTERFACE_JAVADOC" value="1" />
     <option name="INTRODUCE_FIELD_VISIBILITY" value="private" />
     <option name="PULL_UP_MEMBERS_JAVADOC" value="2" />
+    <option name="INLINE_METHOD_THIS" value="true" />
     <option name="INLINE_SUPER_CLASS_THIS" value="true" />
     <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="true" />
     <option name="INTRODUCE_PARAMETER_CREATE_FINALS" value="false" />
