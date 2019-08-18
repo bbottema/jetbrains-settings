@@ -1,10 +1,10 @@
-<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+<scheme name="Darcula copy1" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2017-08-14T21:07:07</property>
+    <property name="created">2019-08-18T20:26:00</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2017.1.1.0.0</property>
-    <property name="modified">2019-08-18T20:25:38</property>
-    <property name="originalScheme">Darcula</property>
+    <property name="ideVersion">2019.2.1.0.0</property>
+    <property name="modified">2019-08-18T20:26:48</property>
+    <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <colors>
     <option name="FILESTATUS_ADDED" value="c3e88d" />
@@ -50,8 +50,7 @@
     </option>
     <option name="GIT_TOOLBOX.EDITOR_INLINE_BLAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="4d545d" />
-        <option name="BACKGROUND" value="e486ff" />
+        <option name="FOREGROUND" value="3c3f41" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
