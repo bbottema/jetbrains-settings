@@ -1,11 +1,19 @@
 <application>
   <component name="ParameterNameHintsSettings">
     <blacklists>
-      <blacklist language="Groovy" />
       <blacklist language="Java">
         <added pattern="org.simplejavamail.mailer.config.ServerConfig.ServerConfig(host,port,username,password)" />
         <added pattern="org.simplejavamail.mailer.Mailer.sendMail(email,async)" />
       </blacklist>
+      <blacklist language="Groovy" />
     </blacklists>
+    <disabledLanguages>
+      <language id="JAVA" />
+      <language id="TypeScript" />
+      <language id="Angular2Html" />
+      <language id="JavaScript" />
+      <language id="Groovy" />
+      <language id="SQL" />
+    </disabledLanguages>
   </component>
 </application>
