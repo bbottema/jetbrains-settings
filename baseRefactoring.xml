@@ -21,7 +21,6 @@
     <option name="EXTRACT_INTERFACE_JAVADOC" value="1" />
     <option name="INTRODUCE_FIELD_VISIBILITY" value="private" />
     <option name="PULL_UP_MEMBERS_JAVADOC" value="2" />
-    <option name="INLINE_METHOD_THIS" value="true" />
     <option name="INLINE_SUPER_CLASS_THIS" value="true" />
     <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="true" />
     <option name="INTRODUCE_PARAMETER_CREATE_FINALS" value="false" />
