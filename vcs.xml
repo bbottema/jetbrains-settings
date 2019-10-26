@@ -150,6 +150,10 @@
           <option name="url" value="https://github.com/knowm/XChange.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ftomassetti/java-symbol-solver-examples.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\workstation" />
