@@ -3,7 +3,7 @@
     <property name="created">2019-08-18T20:26:00</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.1.0.0</property>
-    <property name="modified">2019-08-18T20:27:38</property>
+    <property name="modified">2019-12-06T20:40:26</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <colors>
@@ -66,10 +66,7 @@
       <value />
     </option>
     <option name="LINE_FULL_COVERAGE">
-      <value>
-        <option name="BACKGROUND" value="2c6243" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
+      <value />
     </option>
     <option name="LINE_NONE_COVERAGE">
       <value>
@@ -80,7 +77,7 @@
     </option>
     <option name="LINE_PARTIAL_COVERAGE">
       <value>
-        <option name="BACKGROUND" value="51460d" />
+        <option name="BACKGROUND" value="715538" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
