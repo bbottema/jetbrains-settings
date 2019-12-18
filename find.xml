@@ -2,11 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.txt" />
     <mask>*.jsp</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
@@ -20,5 +19,6 @@
     <mask>pom.xml</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
+    <mask>*.txt</mask>
   </component>
 </application>
