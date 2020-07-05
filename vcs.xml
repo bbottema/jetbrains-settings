@@ -166,6 +166,10 @@
           <option name="url" value="https://github.com/deveth0/dummycreator.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/bbottema/java-socks-proxy-server.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\workstation" />
@@ -183,6 +187,5 @@
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="C:/tmp" />
-    <option name="COMMIT_FROM_LOCAL_CHANGES" value="false" />
   </component>
 </application>
