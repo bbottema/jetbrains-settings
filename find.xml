@@ -20,5 +20,6 @@
     <mask>*build*.java</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*test*</mask>
   </component>
 </application>
