@@ -6,6 +6,7 @@
       <mapping ext="rtf" type="PLAIN_TEXT" />
       <mapping ext="eml" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
+      <mapping ext="pkcs12" type="PLAIN_TEXT" />
       <mapping ext="msg" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
