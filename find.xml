@@ -22,8 +22,8 @@
     <mask>*test*</mask>
     <mask>*Test.java</mask>
     <mask>package.json</mask>
-    <mask>*.xml</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
