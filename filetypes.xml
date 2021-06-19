@@ -5,6 +5,7 @@
       <mapping ext="rtf" type="PLAIN_TEXT" />
       <mapping ext="java~head" type="PLAIN_TEXT" />
       <mapping ext="eml" type="PLAIN_TEXT" />
+      <mapping ext="data" type="PLAIN_TEXT" />
       <mapping ext="pkcs12" type="PLAIN_TEXT" />
       <mapping ext="msg" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
