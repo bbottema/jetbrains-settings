@@ -78,4 +78,5 @@
   <action id="RerunTests" />
   <action id="ResizeToolWindowDown" />
   <action id="ShowContent" />
+  <action id="context.load" />
 </keymap>
