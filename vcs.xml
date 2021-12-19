@@ -190,6 +190,14 @@
           <option name="url" value="ssh://git-codecommit.eu-central-1.amazonaws.com/v1/repos/Cupcake-Buddy" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://benny_bottema@git-codecommit.eu-central-1.amazonaws.com/v1/repos/Cupcake-Buddy" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://AKIA4WIURAFNUANIFG6G@git-codecommit.eu-central-1.amazonaws.com/v1/repos/Cupcake-Buddy" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\workstation" />
