@@ -25,5 +25,6 @@
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*Builder*</mask>
   </component>
 </application>
