@@ -26,5 +26,6 @@
     <mask>*Builder*</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*Ther*.java</mask>
   </component>
 </application>
