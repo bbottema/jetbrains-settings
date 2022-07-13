@@ -9,6 +9,7 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*Test.java" />
     <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
@@ -19,7 +20,6 @@
     <mask>*.txt</mask>
     <mask>*build*.java</mask>
     <mask>*test*</mask>
-    <mask>*Test.java</mask>
     <mask>package.json</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
@@ -29,5 +29,6 @@
     <mask>*Builder*</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*Test.java</mask>
   </component>
 </application>
