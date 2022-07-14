@@ -66,13 +66,11 @@
       <entry key="ChangesToolWindowPreview">
         <PlaceSettings>
           <option name="EXPAND_BY_DEFAULT" value="false" />
-          <option name="IGNORE_POLICY" value="FORMATTING" />
         </PlaceSettings>
       </entry>
       <entry key="ChangesView">
         <PlaceSettings>
           <option name="EXPAND_BY_DEFAULT" value="false" />
-          <option name="IGNORE_POLICY" value="FORMATTING" />
         </PlaceSettings>
       </entry>
       <entry key="CommitDialog">
@@ -85,7 +83,6 @@
         <PlaceSettings>
           <option name="EXPAND_BY_DEFAULT" value="false" />
           <option name="HIGHLIGHT_POLICY" value="BY_WORD_SPLIT" />
-          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES" />
         </PlaceSettings>
       </entry>
       <entry key="Merge">
