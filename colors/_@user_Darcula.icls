@@ -3,7 +3,7 @@
     <property name="created">2017-08-14T21:07:07</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.1.1.0.0</property>
-    <property name="modified">2019-08-18T20:25:38</property>
+    <property name="modified">2022-07-29T19:06:02</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -48,6 +48,24 @@
         <option name="FOREGROUND" value="ff6806" />
       </value>
     </option>
+    <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="b4b4b4" />
+        <option name="BACKGROUND" value="1778bd" />
+      </value>
+    </option>
+    <option name="CONSOLE_DARKGRAY_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="d2d2d2" />
+        <option name="BACKGROUND" value="424242" />
+      </value>
+    </option>
+    <option name="CONSOLE_GRAY_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="b4b4b4" />
+        <option name="BACKGROUND" value="616161" />
+      </value>
+    </option>
     <option name="GIT_TOOLBOX.EDITOR_INLINE_BLAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="4d545d" />
@@ -57,11 +75,6 @@
     </option>
     <option name="HTML_CODE">
       <value />
-    </option>
-    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-      </value>
     </option>
     <option name="KOTLIN_LABEL">
       <value />
@@ -84,6 +97,11 @@
         <option name="BACKGROUND" value="51460d" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LOG_EXPIRED_ENTRY">
+      <value>
+        <option name="FOREGROUND" value="aaaaaa" />
       </value>
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
