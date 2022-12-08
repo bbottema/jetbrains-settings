@@ -5,5 +5,20 @@
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>*.jsp</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.gradle</mask>
+    <mask>*.ts</mask>
+    <mask>*.less</mask>
+    <mask>*.properties</mask>
+    <mask>*.java</mask>
+    <mask>pom.xml</mask>
+    <mask>*.html</mask>
+    <mask>*.txt</mask>
+    <mask>*build*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>

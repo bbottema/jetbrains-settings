@@ -1,8 +1,15 @@
 <scheme name="Darcula copy" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Monospaced" />
   <attributes>
+    <option name="GIT_TOOLBOX.EDITOR_INLINE_BLAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="4f565e" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="JAVA_KEYWORD">
       <value>
         <option name="FOREGROUND" value="cc7832" />
