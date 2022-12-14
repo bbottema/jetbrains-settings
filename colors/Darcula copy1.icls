@@ -1,11 +1,15 @@
 <scheme name="Darcula copy1" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2019-08-18T20:26:00</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.1.0.0</property>
-    <property name="modified">2019-12-06T20:40:26</property>
+    <property name="modified">2022-12-14T16:58:38</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
   <colors>
     <option name="FILESTATUS_ADDED" value="c3e88d" />
     <option name="FILESTATUS_DELETED" value="808080" />
@@ -56,11 +60,6 @@
     </option>
     <option name="HTML_CODE">
       <value />
-    </option>
-    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-      </value>
     </option>
     <option name="KOTLIN_LABEL">
       <value />
