@@ -6,6 +6,7 @@
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift ctrl f4" />
   </action>
+  <action id="CloseGotItTooltip" />
   <action id="CollapseAll">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
@@ -15,6 +16,9 @@
   </action>
   <action id="CollapseRegion">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
+  </action>
+  <action id="Console.TableResult.NavigateForeignAction">
+    <mouse-shortcut keystroke="control button1" />
   </action>
   <action id="DSM.ZoomIn">
     <keyboard-shortcut first-keystroke="ctrl add" />
@@ -29,6 +33,7 @@
     <keyboard-shortcut first-keystroke="ctrl minus" />
     <mouse-shortcut keystroke="control button142" />
   </action>
+  <action id="EditorEscape" />
   <action id="EditorIncreaseFontSize">
     <keyboard-shortcut first-keystroke="ctrl equals" />
     <mouse-shortcut keystroke="control button143" />
@@ -37,6 +42,7 @@
   <action id="EditorResetFontSize">
     <keyboard-shortcut first-keystroke="ctrl 0" />
   </action>
+  <action id="EscUnfollowUserAction" />
   <action id="ExpandAll">
     <keyboard-shortcut first-keystroke="ctrl add" />
   </action>
@@ -51,7 +57,11 @@
     <keyboard-shortcut first-keystroke="ctrl add" />
   </action>
   <action id="FileChooser.TogglePathShowing" />
+  <action id="FocusEditor" />
   <action id="GotoBookmark0" />
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="control button1" />
+  </action>
   <action id="Images.Editor.ZoomIn">
     <keyboard-shortcut first-keystroke="ctrl add" />
   </action>
@@ -71,12 +81,29 @@
   </action>
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
+  <action id="NavBar-cancel" />
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift ctrl f6" />
+    <keyboard-shortcut first-keystroke="ctrl page_up" />
   </action>
   <action id="Print" />
   <action id="RerunTests" />
   <action id="ResizeToolWindowDown" />
   <action id="ShowContent" />
-  <action id="context.load" />
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="Terminal.SwitchFocusToEditor" />
+  <action id="thomas.gian.FoldSearch">
+    <keyboard-shortcut first-keystroke="f3" second-keystroke="f3" />
+  </action>
+  <action id="thomas.gian.FoldSearchFrameAsWindow">
+    <keyboard-shortcut first-keystroke="f3" second-keystroke="w" />
+  </action>
+  <action id="thomas.gian.FoldSearchToggle">
+    <keyboard-shortcut first-keystroke="f3" second-keystroke="escape" />
+  </action>
 </keymap>
